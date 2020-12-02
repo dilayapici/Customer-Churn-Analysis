@@ -1,4 +1,4 @@
-# Customer-Churn-Analysis
+# Customer-Churn-Analysis / Final Project of Kodluyoruz Izmir Applied Data Science 101 Bootcamp
 
 
 ![Alt Text](https://specials-images.forbesimg.com/imageserve/5f1fd679c4049d7bec674c92/960x0.gif?fit=scale)
